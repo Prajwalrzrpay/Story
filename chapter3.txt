@@ -1,1 +1,1 @@
-Now I need to find out when my commits will appear in my github
+Now I need to find out when my commits will appear in my github, this happens after creating remote repo and pushing the code to it, now what
